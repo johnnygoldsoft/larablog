@@ -61,12 +61,14 @@ Accède ensuite à http://localhost:8000
 
 ```
 
+---
 
 ## 📬 À propos
 
 Développé avec passion par [Johnny Goldsoft](https://github.com/johnnygoldsoft) 👨‍💻
 N'hésite pas à me suivre, à cloner le projet ou à proposer des améliorations !
 
+---
 
 ## 📄 Licence
 Ce projet est libre et ouvert. Tu peux l'utiliser comme base pour tes propres projets.
